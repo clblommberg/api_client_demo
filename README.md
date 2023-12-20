@@ -1,7 +1,3 @@
-Entiendo, quieres una presentación más detallada y descriptiva que muestre el recorrido del proyecto, los desafíos que enfrentaste y los logros alcanzados en la implementación de una API con Spring Boot. Aquí tienes una estructura para una presentación más completa:
-
----
-
 # Presentación del Proyecto - API con Spring Boot
 
 ## Objetivo del Proyecto
